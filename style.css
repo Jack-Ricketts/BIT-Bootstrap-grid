@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container-fluid{
+    height: 100vh;
+}
+.aukstis{
+    height: 33.34vh;
+    padding-left: 0;
+    padding-right: 0;
+}
+.aukstis2{
+    height: 50vh;
+    padding-left: 0;
+    padding-right: 0;
+}
+.aukstis3{
+    height: 25vh;
+    padding-left: 0;
+    padding-right: 0;
+}
+.aukstis4{
+    height: 50vh;
+    padding-left: 0;
+    padding-right: 0;
+}
+.img-fluid{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
